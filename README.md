@@ -4,6 +4,11 @@
 
 This repository contains an overview of the numpy.random package in a Jupyter notebook.
 
+## Quick steps
+
+You can view the notebook at the following URL.
+https://nbviewer.org/github/krystianopryszek99/numpy-random/blob/main/numpy-random.ipynb
+
 ## How to run the notebook
 
 1. Download [Anaconda](https://www.anaconda.com/products/individual).
